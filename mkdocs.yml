@@ -3,7 +3,7 @@ site_url: https://sitename.example
 theme:
   name: material
   font:
-    text: Merriweather Sans
+    text: Roboto
     code: Red Hat Mono
     
   icon:
@@ -42,3 +42,11 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+
+
+
+ 
+
+
+
