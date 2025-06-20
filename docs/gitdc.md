@@ -40,7 +40,7 @@ cd docs-repo
 graph TD
     A[Pull latest changes] --> B[Create a new branch for your updates]
     --> C[Make changes and commit]--> D[Push your branch to remote]
-    --> E[Open a Pull Request-PR]--> F[Review & Merge];
+    --> E[Open a Pull Request-PR];
 ```
 ### Step-by-Step Explanation
 

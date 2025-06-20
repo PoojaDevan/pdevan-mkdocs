@@ -2,27 +2,25 @@
 
 Welcome to my online space!
 
-Hello, I’m [Pooja Devan](https://www.linkedin.com/in/pooja-devan-07nov95/), and I’ve spent over six years crafting technical content. 
+Hello, I’m [Pooja Devan](https://www.linkedin.com/in/pooja-devan-07nov95/), I’ve spent over six years crafting technical content using some of the best documentation tools, scripting languages, and AI technologies.
 
-## From Word Docs to Docs-as-Code
+During my Electronics Engineering days, I realized I might not become the kind of engineer who builds circuits or interprets signals with ease, but I discovered something even more valuable: a deep curiosity about how technology works and a knack for explaining it clearly.
 
-My journey into technical writing wasn’t planned, it was discovered. I started out dreaming of journalism, landed in engineering, and found my sweet spot somewhere in between: telling technology’s story.
+As I delved into complex topics, I found myself naturally helping friends understand them too. This blend of technical understanding and my strong communication skills led me to explore a career that bridges both worlds. That’s how I found technical writing. The rest, as they say, is documentation.
 
-While studying Electronics and Communications, I realized I didn’t want to build circuits, I wanted to build clarity. That’s when I stumbled into technical writing, a field that let me blend my curiosity for technology with my love for words. The rest, as they say, is documentation.
-
-## The WordPress Years
+## 2019 - 2020
 
 I started my career writing content for websites, fact-filled articles, product descriptions, and blog posts. I worked with tools like **WordPress**, **MS Word**, and **Canva**, and began learning how to structure content for digital platforms. During this time, I also started creating **technical explainer videos** using **Camtasia**. That was my first taste of teaching through content and I loved it.
 
-## Getting Technical
+## 2020 - 2021
 
 At [SemaConnect](https://blinkcharging.com/blog/semaconnect-welcome-to-blink-charging) and [ZKTeco](https://www.zkteco.com/en/), I moved into more structured documentation, writing manuals, user guides, and software help modules in **HTML**, working closely with product and engineering teams. I also collaborated with UX teams and helped shape the voice of the product. Tools like **Snagit**, **Adobe XD**, and **Figma** became part of my everyday toolkit. I was still growing into the title of "technical writer," but the path was getting clearer.
 
-## Owning the Docs
+## 2022 - 2024
 
 Then came [Skan AI](https://www.skan.ai/), where I joined as the first and only technical writer. There was no documentation system, so I built one from scratch using **Document360**. I defined the architecture, structured the content, and built workflows that supported an agile development process. I even helped train the company’s chatbot and wrote its responses. This was the job where I really learned what it means to own the documentation function not just write, but advocate, organize, and scale.
 
-## Docs-as-Code and Developer Workflows
+## 2024 - Present
 
 At [Pixitmedia](https://www.pixitmedia.com/), I stepped fully into the world of **docs-as-code**. I write in **Markdown** and **reStructuredText**, generate documentation using **Sphinx**, and collaborate via **Git** and **Bitbucket**, just like the developers. I submit pull requests, review code-adjacent content, and ship docs alongside product releases as part of the CI/CD pipeline. I also work comfortably in a **Linux** environment and manage docs in sync with **Jira**, **Confluence**, and release cycles.
 
