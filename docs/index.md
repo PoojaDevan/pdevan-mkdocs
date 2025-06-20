@@ -10,11 +10,11 @@ While studying Electronics and Communications, I realized I didn’t want to bui
 
 ## Chapter 1: The WordPress Years
 
-I started my career writing content for websites—fact-filled articles, product descriptions, and blog posts. I worked with tools like **WordPress**, **MS Word**, and **Canva**, and began learning how to structure content for digital platforms. During this time, I also started creating **technical explainer videos** using **Camtasia**. That was my first taste of teaching through content and I loved it.
+I started my career writing content for websites, fact-filled articles, product descriptions, and blog posts. I worked with tools like **WordPress**, **MS Word**, and **Canva**, and began learning how to structure content for digital platforms. During this time, I also started creating **technical explainer videos** using **Camtasia**. That was my first taste of teaching through content and I loved it.
 
 ## Chapter 2: Getting Technical
 
-At [SemaConnect](https://blinkcharging.com/blog/semaconnect-welcome-to-blink-charging) and [ZKTeco](https://www.zkteco.com/en/), I moved into more structured documentation—writing manuals, user guides, and software help modules in **HTML**, working closely with product and engineering teams. I also collaborated with UX teams and helped shape the voice of the product. Tools like **Snagit**, **Adobe XD**, and **Figma** became part of my everyday toolkit. I was still growing into the title of "technical writer," but the path was getting clearer.
+At [SemaConnect](https://blinkcharging.com/blog/semaconnect-welcome-to-blink-charging) and [ZKTeco](https://www.zkteco.com/en/), I moved into more structured documentation, writing manuals, user guides, and software help modules in **HTML**, working closely with product and engineering teams. I also collaborated with UX teams and helped shape the voice of the product. Tools like **Snagit**, **Adobe XD**, and **Figma** became part of my everyday toolkit. I was still growing into the title of "technical writer," but the path was getting clearer.
 
 ## Chapter 3: Owning the Docs
 
