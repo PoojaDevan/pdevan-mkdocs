@@ -10,6 +10,7 @@ theme:
     logo: fontawesome/solid/pen-fancy
 
   favicon: Images/Pen.png 
+
  
   palette:
     # Dark Mode
@@ -17,7 +18,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Dark mode
-      primary: cyan
+      primary: teal
       accent: deep purple
 
     # Light Mode
@@ -49,6 +50,12 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - My Career Map: index.md
+  - Material for Mkdocs: Codex.md
+  - Git for Technical Writers: gitdc.md
+  - Explore: Explore.md
 
 
 
