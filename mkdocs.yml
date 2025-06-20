@@ -1,13 +1,15 @@
-site_name: Prose & Protocol
+site_name: Pooja Devan
 site_url: https://sitename.example
 theme:
   name: material
   font:
-    text: Roboto
+    text: Montserrat
     code: Red Hat Mono
     
   icon:
-    logo: fontawesome/solid/p 
+    logo: fontawesome/solid/pen-fancy
+
+  favicon: Images/Pen.png 
  
   palette:
     # Dark Mode
@@ -15,7 +17,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off
         name: Dark mode
-      primary: teal
+      primary: cyan
       accent: deep purple
 
     # Light Mode
@@ -42,6 +44,11 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 
 
